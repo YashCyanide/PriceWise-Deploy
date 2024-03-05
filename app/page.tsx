@@ -25,7 +25,7 @@ const Home = async () => {
             </p>
             <h1 className="head-text">
             Optimize with the Strength of 
-              <span className="text-primary"> WebEase</span>
+              <span className="text-primary"> PriceWise</span>
             </h1>
             <p className="mt-7">
             Empowering users with robust self-service analytics for enhanced conversion, engagement, and retention.
